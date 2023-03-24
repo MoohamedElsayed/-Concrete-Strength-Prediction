@@ -2,6 +2,9 @@
 ![image](https://user-images.githubusercontent.com/108439954/224807892-f860f0a2-cc79-45e6-8972-b73850e76a36.png)
 
 
+# Kaggle Notebook Link :  
+https://www.kaggle.com/code/moohamedelsayed/ensemble-training-xgb-catboost-model-eda/notebook  
+
 ## Dataset Description
 There are Various Factors that affects the Strength of Concrete Such as Materials Used, Age etc.  
 
